@@ -1,6 +1,7 @@
 ## Step 1: Install Truffle
 - ### Error: 
-            I use  ```npm install -g truffle@5.0.2 ``` so,I got a Error 
+            I use  ```npm install -g truffle@5.0.2 ``` so,I got a Error
+  
              ```
             Error: Error: Error: Error making request to https://raw.githubusercontent.com/truffle-box/bare-box/master/truffle-box.json. Got error: . Please check the format of the requested resource.
 
