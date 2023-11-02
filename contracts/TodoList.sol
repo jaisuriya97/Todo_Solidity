@@ -28,8 +28,9 @@ contract TodoList {
     //constructor - function that runs when the contract is deployed
     constructor() public {
         createTask("Blockchain is awesome!");
+        createTask("REC");
     }
 
-    
+
 
 }
