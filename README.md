@@ -1,4 +1,4 @@
-# UNDER CONSTRUCTION ⚠️
+# UNDER CONSTRUCTION 🚧
 
 
 ## Step 1: Install Truffle
